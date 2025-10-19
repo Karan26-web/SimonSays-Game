@@ -1,3 +1,3 @@
 # Simon Says Game
 
-simon says game 
+simon says game created by Karan
